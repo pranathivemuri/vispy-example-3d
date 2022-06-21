@@ -1,5 +1,5 @@
 imageio==2.5.0
-numpy==1.10.0
+numpy==1.22.0
 qtpy==1.7.0
 scipy==1.2.0
 scikit-image==0.15.0
